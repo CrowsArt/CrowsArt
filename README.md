@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💫 About Me:
+## 💫 About Me:
 Hi, I'm Charly 👋<br><br>I'm a beginner developer currently learning HTML. I love creating small apps, mini-games, and websites. Currently, I'm exploring ways to combine creativity and coding into useful digital tools and templates.<br><br>💻 Skills: HTML  <br>🎨 Interests: Web design, creative coding, bots  <br>🌱 Currently learning: Responsive Web Design on freeCodeCamp<br>📫 Contact: charly@crowsart.com<br>I love turning ideas into small projects that grow over time, and I'm excited to share my learning journey here on GitHub.
 
 
